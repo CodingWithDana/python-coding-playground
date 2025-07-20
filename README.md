@@ -2,4 +2,3 @@
 
 A repo for practicing coding with Python
 
-By Dana
